@@ -1,0 +1,23 @@
+header{
+    background: #bfd9ef;
+    border-radius: 10px;
+    color: black;
+    padding-top: 5px;
+    text-align: center;
+}
+#logo{
+     position:absolute;
+     top:10px;
+     left:0px;
+     border:none;
+}
+.abajo {
+    position: relative;
+    right: 400px;
+}
+header nav {
+    background: blue;
+    border-radius: 5px;
+    text-align: left; 
+    position: relative;
+}
